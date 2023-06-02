@@ -14,11 +14,11 @@ Amazon, an e-commerce company, allows its users to rate a product, ranging from 
 Sentiment analysis can be categorized based on technical approaches. Typically, there are two main techniques that can approach sentiment analysis or text classification problems. In this implementation, we will use these approach and compare the result of the predictions.
 
 1. Lexicon-based Approach
-1.1  SentiWordNet
-1.2  VADER (NLTK)
-1.3  TextBlob
+- 1.1  SentiWordNet
+- 1.2  VADER (NLTK)
+- 1.3  TextBlob
 
 2. Machine Learning Approach
-2.1 Kmean(Unsupervised Learning)
-2.2 Naïve Bayes (Supervised learning)
-2.3 SVM (Supervised learning)
+- 2.1 Kmean(Unsupervised Learning)
+- 2.2 Naïve Bayes (Supervised learning)
+- 2.3 SVM (Supervised learning)
